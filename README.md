@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · vincentmumo-byte</sub></p>
 <h1>Mumo Vincent</h1>
-<h2>Backend or systems engineer</h2>
+<h2>Backend engineer aiming to become AI and ML engineer</h2>
 <p>Always in believing in me</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Nairobi,kenya</sub></p>
